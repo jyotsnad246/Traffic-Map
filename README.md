@@ -1,4 +1,6 @@
-# Google Maps JavaScript Sample
+# Map with Traffic Layer 
+
+## Google Maps JavaScript Sample
 
 This sample is generated from @googlemaps/js-samples located at
 https://github.com/googlemaps/js-samples.
